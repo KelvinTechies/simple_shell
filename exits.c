@@ -1,3 +1,4 @@
+#include "shell.h"
 
 /**
  **_strncpy - copies a string
@@ -71,4 +72,5 @@ char *_strchr(char *s, char c)
 
 	return (NULL);
 }
+
 
